@@ -1,0 +1,1 @@
+INSERT INTO Dictionary(word, translation) VALUES ('flower', 'цветок');
